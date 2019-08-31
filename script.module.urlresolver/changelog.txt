@@ -1,5 +1,23 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]4.0.55[/B]
+  31.08.2019
+  Neu:
+- watchshare
+- streamty
+- bitchute
+- chromcast
+- vidia
+- viuclips
+
+  Update:
+- hmf (Doing a HEAD request)
+- fembed (Add Domain)
+- vidstreaming
+- vidtodo (Update und Add New Domain)
+- xstreamcdn (Update patterns and New Domains)
+- ok (Add Livestream support to ok.ru)
+
 [B]4.0.54[/B]
   12.08.2019
   Neu: 
