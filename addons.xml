@@ -68,7 +68,7 @@
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="de">ädt Artworks für Addons herunter, für TV Serien, Filme und Music Videos und speichert diese in einer SQLITE Datenbank</summary>
+    <summary lang="de">Lädt Artworks für Addons herunter, für TV Serien, Filme und Music Videos und speichert diese in einer SQLITE Datenbank</summary>
 	<description lang="de">Speichert Metadaten für TV Serien, Filme und Music Videos. [CR]Quellen:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com[CR]www.omdbapi.com[CR]Diese Produkt verwendet den TMDb API, ist aber nicht von TMDb zertifiziert.</description>
     <disclaimer lang="de"></disclaimer>
     <language></language>
