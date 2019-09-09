@@ -1,5 +1,25 @@
+xStream 3.5.10
+  09.09.2019
+- [kinoger.com] fix hoster add description and duration
+- [filmpalast] add partially year and duration
+- [foxx] add duration
+- [hd-streams.to] add site
+- [hd-streams.org] fix suche usw.
+- [foxx] fix suche
+- [alleserien] fix suche
+- [s.to] fix hoster Qualy
+- [moviedream] fix hoster tnx kasimodo
+- [alleserien] fix hoster
+- [kinox] update domains
+- [Foxx] Fix Regex
+- [topstreamfilm] Fix Hoster
+- [Update Manager] Resolver nightly Pfad erneuert
+
 xStream 3.5.9
   21.07.2019
+- [kinox] update domains
+- [Foxx] Fix Regex
+- [topstreamfilm] Fix Hoster
 - [moviedream] fix nexpage problem
 - [s.to] Fix Thumbnail
 - [cinemaxx.cc] Fix Episodes
