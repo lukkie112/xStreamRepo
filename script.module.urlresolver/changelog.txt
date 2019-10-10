@@ -1,5 +1,26 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]4.0.56[/B]
+  10.10.2019
+  Update:
+- tusfiles
+- rapidvideocom
+- vivosx
+- vidoza
+- lib net.py
+- hdgo
+- bitchute
+- hmf.py 
+- verystream (Add new domain)
+- fastplay
+- vidtodo (add new domains)
+  
+  Neu:
+- speedwatch
+- vlaretv
+- dailynotion
+- SendVid
+
 [B]4.0.55[/B]
   31.08.2019
   Neu:
