@@ -1,4 +1,36 @@
-Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+﻿Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+
+[B]4.0.57[/B]
+  16.11.2019
+  Update:
+- mystream
+- fembed (api url)
+- gofile
+- jetload
+- clipwatching
+- onlystream
+- mixdrop 
+- gounlimited
+- vidup_me (Add new domain)
+- nxload (decrypted)
+- Vidorg (Add new Domain)
+- Speedwatch (Fix Pattern und Additional Embed Path)
+- gofile
+- thevid
+- thevid_gmu
+- videoapne
+- hmf (handle some sites giving empty error code on HEAD request)
+
+  Neu:
+- cloudb
+- mixdrop
+- fsst #
+- idup
+- uqload
+- videobin
+
+  Entfernt:
+- Openload, Verystream, Streamango/Streamcherry (Behördlich geschlossen)
 
 [B]4.0.56[/B]
   10.10.2019
