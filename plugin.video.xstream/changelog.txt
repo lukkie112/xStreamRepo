@@ -1,3 +1,27 @@
+xStream 3.5.12
+  03.01.2020
+- [streamking] fix filthy site
+- [kkiste.co] fix hoster supervideo
+- [kinox] fix
+- [movie4k] fix
+- [movietown] add site
+- [hdfilme] fix hoster
+- [parser] py23 kompatibel
+- add requestHandler2 beta for cloudflare
+- [moviedream] fix nextpage
+- [flimmerstube] fix search
+- [filmpalast] fix nextpage
+- [flimmerstube] youtube erkennung eingebaut und fix hoster youtube usw
+- [kindertube] youtube erkennung eingebaut usw
+- [iload] seite offline entfernt
+- [freikino] alles offline entfernt
+- [hdstreamfilme]  alles offline entfernt
+- [s.to] fix filme
+- [moviedream] fix genre
+- [kkiste.co] fix hoster supervideo
+- [movie4k] temporärer fix
+- [hdfilme] fix hoster
+
 xStream 3.5.11
   14.10.2019
 - Update settings.xml und Language strings
