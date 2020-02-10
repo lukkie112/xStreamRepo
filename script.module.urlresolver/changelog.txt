@@ -1,4 +1,42 @@
-﻿Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+
+[B]4.0.58[/B]
+  10.02.2020
+  Update:
+- mixdrop
+- mystream
+- streamz
+- mp4upload
+- hxload
+- gounlimited
+- prostream
+- upstream
+- supervide
+- jetload umbenannt und damit deaktiviert 
+  Streams von Jetload können z.Z. in Kodi z.Z. nicht abgespielt werden
+- fembed
+- flashx
+- cloudvideo
+- vidlox
+- vidoza
+
+  Neu:
+- liveleak
+- truhd
+- prostream
+- upstream
+- supervideo
+- brighteon
+- pixeldrain
+- streamz
+- yandex
+- videomega
+
+  Entfernt:
+- blazefile
+- movierulz
+- streamcloud
+- streamcloudco
 
 [B]4.0.57[/B]
   16.11.2019

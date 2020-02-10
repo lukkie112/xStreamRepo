@@ -126,7 +126,7 @@ xStream 3.5.12
   </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="4.0.57" provider-name="Resolver Team">
+<addon id="script.module.urlresolver" name="URLResolver" version="4.0.58" provider-name="Resolver Team">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
