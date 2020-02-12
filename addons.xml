@@ -144,7 +144,7 @@ xStream 3.5.12
 
 <addon id="plugin.program.addons.updater"
 		name="[COLOR blue]Addons Updater[/COLOR]"
-		version="1.0.2.4"
+		version="1.0.2.5"
 		provider-name="[COLOR blue]loki1979[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.7.13" />
