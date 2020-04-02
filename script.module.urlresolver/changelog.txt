@@ -1,5 +1,66 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]4.0.59[/B]
+  02.04.2020
+  Update
+- gounlimited
+- mystream
+- upstream
+- waaw
+- uptobox
+  Language string (de, en_us, en_gb)
+  strings.py
+- aliez
+- cda
+- chromecast
+- clicknupload
+- clipwatching
+- cloudb
+- cloudmailru
+- anistream
+- gamovideo
+- uptobox
+- videa
+- dailymotion
+- entervideo
+- jetload (Pairing erforderlich, https://jlpair.net/)
+- streamwire
+- streamz
+- fembed
+- helpers.py (Fix get_dom function )
+  - Some providers has case sensitive get attributes in source URL (e.g.: videa.hu).
+  - Better, when we find a dom in lower case, but returning with the original text in html.
+- videa (Bugfix)
+  - fix source sorting by resolution
+  - replace &amp; with & in source url
+- vevio (update und add neue domain)
+- myviru (update und add neue domain)
+  
+  Neu:
+- primevideos
+- 7up
+- saruch
+- sibnet
+- vidfast
+- vidspace
+- pkspeed
+- streamwire
+
+  Entfernt:
+- anyfiles
+- bestream
+- daclips
+- estream
+- gorillavid
+- h265
+- idtbox
+- mehlizmovies
+- movpod
+- videoapne
+- watchshare
+- fileholic
+- putvid
+
 [B]4.0.58[/B]
   10.02.2020
   Update:
