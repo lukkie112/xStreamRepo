@@ -1,5 +1,76 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]4.0.60[/B]
+  09.06.2020
+  Update:
+- default.py , laguage (de, en_gb, en_us), net.py, strings.py
+- common.py (Update user agent)
+- hxload (hxload domain change)
+- mystream (mystream additional domain)
+- alldebrid
+- debrid_link (Add Torrent Support)
+- premiumize_me
+- cda
+- vkprime 
+- vivosx (additional embed pattern)
+- clipwatching
+- gounlimited
+- nxload
+- streamz
+- videomega
+- vidmoly (additional match pattern)
+- onlystream
+- anavids
+
+  Neu:
+- playtube
+- anavids
+- liivideo
+- vidcloud9
+- wstream
+- easyload
+- vidmoly
+- youdbox
+- viduplayer
+
+  Entfernt:
+- abcvideo
+- castamp
+- doodstream
+- flix555
+- gamovideo
+- grifthost
+- idup
+- irshare
+- kupload
+- movdivx
+- myviru
+- oneload
+- playedto
+- powvideo
+- primevideos
+- prostream
+- speedvid
+- ssfiles
+- streamenet
+- streammoe
+- streamplay
+- syfy
+- tocloud
+- tolstd_fel
+- unitplay
+- upfiles
+- usersfiles
+- ustream
+- vidbom
+- vidcloud
+- vidtodo
+- vidmad
+- vidup
+- vshare
+- waaw
+- zevera
+
 [B]4.0.59[/B]
   02.04.2020
   Update
