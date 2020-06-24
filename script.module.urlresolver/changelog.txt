@@ -1,5 +1,31 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]5.1.1[/B]
+  22.06.2020
+  Update:
+- Language strings.po (De, En_Us, En_Uk)
+- debrid_link
+- fembed
+- filepup
+- wstream
+- helpers.py
+- Hinzufügen von Hostern welche nicht bei Jsergio vorhanden sind:
+	- bitvid
+	- clipwatching
+	- gounlimited
+	- nxload
+	- onlystream
+	- rapidvideo
+	- streamz
+- URLResolver Python 2 und Python 3 kompatible
+- Kodi Matrix kompatible
+
+  Neu:
+- daxab
+- mailru
+- ok
+- playtube
+
 [B]4.0.60[/B]
   09.06.2020
   Update:
