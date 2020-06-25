@@ -1,5 +1,10 @@
 Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
 
+[B]5.1.2[/B]
+  25.06.2020
+  Update:
+- addon.xml (Add kodi-six Support)
+
 [B]5.1.1[/B]
   22.06.2020
   Update:
