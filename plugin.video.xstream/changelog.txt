@@ -1,3 +1,13 @@
+3.5.15
+  02.06.2020
+  Update:
+- Update Manager (Change URLResolver master auf nightly branche)
+- [pureanime] fix hoster
+- [Flimmerstube] fix
+- Languages strings.po und strings.xml (Benutername umgestellt auf E-Mail für s.to)
+- [topstreamfilm] add again fix hoster
+- UpdateManager add 'enforce Update'
+
 3.5.14
   02.04.2020
 - Nightly Updates select auto/manual
