@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.xstream" name="xStream" version="3.5.16" provider-name="xStream-Team">
  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
+   <!-- <import addon="xbmc.python" version="2.14.0"/> -->
    <import addon="repository.xstream"/>
    <import addon="script.module.urlresolver"/>
    <import addon="script.module.six" version="1.11.0"/>
