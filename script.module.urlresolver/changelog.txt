@@ -1,4 +1,21 @@
-Mit # markierte .py Dateien sind Lastship Modifiziert und nur in unserem Resolver enthalten
+Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
+
+[B]5.1.5[/B]
+  16.09.2020
+  Update:
+- playtube (Fix handling embed links without referer)
+- helpers.py (Fix handling embed links without referer )
+- premiumize_me
+- strings.py, string.po (de, en_gb, en_us)
+- gounlimited
+- cloud9 (Update pattern)
+- aadecode.py
+- png.py
+- FEmbed additional domain
+- Cloudb resolver additoinal embed method 
+
+  Neu:
+- Megaload #
 
 [B]5.1.4[/B]
   16.08.2020

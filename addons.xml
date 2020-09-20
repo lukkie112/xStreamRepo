@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.xstream" name="xStream" version="3.5.16" provider-name="xStream-Team">
+<addon id="plugin.video.xstream" name="xStream" version="3.5.17" provider-name="xStream-Team">
  <requires>
    <!-- <import addon="xbmc.python" version="2.14.0"/> -->
    <import addon="repository.xstream"/>
@@ -21,18 +21,37 @@
    <license>GNU GPLv3</license>
    <platform>all</platform>
    <news>
-3.5.16
-- [xStream] Kodi 19 Support Beta
-- [ddl] entfernt keine streams
-- Suchergebnisse verbessert mehrere seiten
-- [HDfilme] Suche fix 
--  mehrere seiten py23 kompatibel
-- [xcine] remove cloudflare problem
-- [Cinenator] add duration fix year
-- [moviedream] add top10 fix for py23
+3.5.17
+- [filmpalast] serien überarbeitet
+- [topstreamfilm] add rating fix duration
+- [kinoger] fix hoster (c|f)sst
+- [general] code optimiert
+- [movieking] fix cover
+- [kinoger] code optimiert
+- [hd-streams_org] neu geschrieben
+- [kinoger] fix serien und hoster
+- [stream.to] seite hinzugefügt
+- [general] code optimiert
+- [dokus4] fix setView
+- [filmpalast] fix setView
+- [movieking] fix setView
+- [moviestream] fix setView
+- [movietown] fix setView
+- [netzkino] fix setView
+- [topstreamfilm] fix setView
+- [general] kleiner fix für autoplay, mehrere für Kodi 19
+- [cinenator] fix hosterauswahl automatisch
+- [dokus4] fix  fix hosterauswahl automatisch
+- [hd-streams.to] fix hosterauswahl automatisch
+- [serienstream] Kodi 19 fix
+- [cinenator] fix next-page
+- [dokus4] add description
+- [filmpalast] add rating
+- [moviestream] add rating
 - [topstreamfilm] fix hoster
-- [kkiste] Add Serie und Release Jahre
-- [Pureanime] add konto und fix suche
+- [movieking] code cleanup
+- [hd-streams_org] hinzugefügt und code cleanup
+- [xStream] Kodi 19 Contextmenu fix usw.
    </news>
    <assets>
      <icon>icon.png</icon>
@@ -62,7 +81,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.metahandler" name="metahandler" version="5.0.0" provider-name="Metahandler Team xStream">
+<addon id="script.module.metahandler" name="metahandler" version="5.0.2" provider-name="Metahandler Team xStream">
   <requires>
     <import addon="script.module.six" version="0.0.1"/>
     <import addon="script.module.simplejson" version="3.3.0"/>
@@ -82,7 +101,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="5.1.4" provider-name="Resolver Team">
+<addon id="script.module.urlresolver" name="URLResolver" version="5.1.5" provider-name="Resolver Team">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" version="1.11.0"/>

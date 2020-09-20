@@ -1,3 +1,36 @@
+3.5.17
+  20.09.2020
+- [filmpalast] serien überarbeitet
+- [topstreamfilm] add rating fix duration
+- [kinoger] fix hoster (c|f)sst
+- [general] code optimiert
+- [movieking] fix cover
+- [kinoger] code optimiert
+- [hd-streams_org] neu geschrieben
+- [kinoger] fix serien und hoster
+- [stream.to] seite hinzugefügt
+- [general] code optimiert
+- [dokus4] fix setView
+- [filmpalast] fix setView
+- [movieking] fix setView
+- [moviestream] fix setView
+- [movietown] fix setView
+- [netzkino] fix setView
+- [topstreamfilm] fix setView
+- [general] kleiner fix für autoplay, mehrere für Kodi 19
+- [cinenator] fix hosterauswahl automatisch
+- [dokus4] fix  fix hosterauswahl automatisch
+- [hd-streams.to] fix hosterauswahl automatisch
+- [serienstream] Kodi 19 fix
+- [cinenator] fix next-page
+- [dokus4] add description
+- [filmpalast] add rating
+- [moviestream] add rating
+- [topstreamfilm] fix hoster
+- [movieking] code cleanup
+- [hd-streams_org] hinzugefügt und code cleanup
+- [xStream] Kodi 19 Contextmenu fix usw.
+
 3.5.16
   18.08.2020
 - [xStream] Kodi 19 Support Beta
