@@ -1,3 +1,11 @@
+3.5.18 
+  06.10.2020
+- [flimmerstube] fix hoster
+- [streamkiste] Seite hinzugefügt
+- [hd-streams.org] fix für Kodi 19
+- [movie4k.space] Seite hinzugefügt
+- [general] fix für Kodi 19 Alpha2
+
 3.5.17
   20.09.2020
 - [filmpalast] serien überarbeitet
