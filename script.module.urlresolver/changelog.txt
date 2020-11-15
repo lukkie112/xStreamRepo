@@ -1,5 +1,40 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
+[B]5.1.6[/B]
+  14.11.2020
+  Update:
+- net.py
+- kodi.py
+- googlevideo
+- anistream
+- aparat
+- vidia
+- vidoza
+- fembed
+- mp4upload
+- Streamtape
+- linksnappy
+- gounlimited
+- log_utils.py
+- Linksnappy fixes (plugin version 3)
+   - linksnappy 
+   - strings
+   - resource.language (de, en_gb, en_us)
+
+ Code Base Changes:
+  xbmc.translatePath deprecated in Matrix
+
+  Neu:
+- streamsb
+- elupload
+- videoapne
+- megogo
+
+  Entfernt:
+- jetload
+- vevio
+- 7up
+
 [B]5.1.5[/B]
   16.09.2020
   Update:
