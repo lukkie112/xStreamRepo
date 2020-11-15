@@ -1,4 +1,24 @@
-3.5.18 
+3.5.19
+  15.11.2020
+- [moviestream] Seite hinzugefügt
+- [general] Ersetzte script.module.metahandler durch TMDB scraper
+- [general] füge contextmenu Erweiterte Info TMDB hinzu
+- [general] add erkennung von jahr in title
+- [general] add einstellung Benutze Cover als Fanart
+- [hd-streams.to] fix episode
+- [kinox] update domains
+- entfernt moviestream
+- [Movie4k Click] add site
+- [kkiste] fix suche
+- [requestHandler] use socket.setdefaulttimeout
+- [streamkiste] fix Serien
+- entfernt alleserien, moviedream, movie4k
+- [hd-streams.to] fix site
+- fix hosterSelect List
+- [HD-Streams.org] fix site
+- [cinenator] fix nextpage
+
+3.5.18
   06.10.2020
 - [flimmerstube] fix hoster
 - [streamkiste] Seite hinzugefügt
