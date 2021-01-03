@@ -1,5 +1,35 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
+
+[B]5.1.7[/B]
+  03.01.2020
+  Update:
+- Fix Streamtape
+- streamz
+- Fix hdvid playback
+- Fix Playtube resolver
+- Fix StreamZ resolver
+- fembed (additional domain )
+- dailymotion
+  Erlaubt dailymotion live streams
+  Dieses Update modifiziert die regex pattern der geladenen m3u8 um livestreams zu erlauben
+- youdbox (Umstellung von GenericResolver auf UrlResolver)
+- vidlox (erlaube mp4)
+- alldebrid (Fix cached source checking)
+- debrid_link (Fix cached source checking)
+- letsupload (Fix class name)
+- kodi.py (code cleanup)
+- hmf.py (code cleanup)
+- helpers.py (support label blacklisting )
+- __init__.py (code cleanup)
+- vidcloud9
+- videoseyred
+- jsunfuck
+- fix mystream
+
+  Neu:
+- ninjastream
+
 [B]5.1.6[/B]
   14.11.2020
   Update:
