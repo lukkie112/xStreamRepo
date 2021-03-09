@@ -1,6 +1,19 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
-[B]6.1.9~nightly[/B]
+[B]2021-03-09~nightly3[/B]
+  Update:
+- youtube
+
+  Neu:
+- lbry
+
+[B]2021-03-03[/B]
+  Update:
+- voesx
+
+[B]2021-03-01[/B]
+  Neu:
+- cocoscope
 
 [B]6.1.8[/B]
   22.02.2021
