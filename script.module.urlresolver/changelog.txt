@@ -1,18 +1,41 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
-[B]2021-03-09~nightly3[/B]
+
+[B]2021.05.19~Release[/B]
+  Update:
+- sbembed (Update pattern)
+- nxload
+- videobin
+- jsunpack
+- userload (jsunpack non ascii strings, helpers.py, jsunpack.py)
+- common.py
+- Ninjastream (add Folder jscrypto)
+- clipwatching Add new Domain)
+  - Clipwatching.com now redirects to highstream.tv
+- streamz (additional domain)
+- hdvid (additional domain)
+- aparat (additional domain)
+- mixdrop (additional domain)
+- hmf
+- fembed (weitere Domain)
+
+  Neu:
+- vupload
+- sendfox
+- rumble
+- sbembed
+- userload
+- jsunhunt.py for userload
+- streamoupload
+- vidmojo
+
+[B]2021-03-09~Release[/B]
   Update:
 - youtube
+- voesx
 
   Neu:
 - lbry
-
-[B]2021-03-03[/B]
-  Update:
-- voesx
-
-[B]2021-03-01[/B]
-  Neu:
 - cocoscope
 
 [B]6.1.8[/B]
