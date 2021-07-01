@@ -69,7 +69,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="2021.05.19" provider-name="Resolver Team">
+<addon id="script.module.urlresolver" name="URLResolver" version="2021.07.01" provider-name="Resolver Team">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" version="1.11.0"/>

@@ -1,5 +1,29 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
+[B]2021.07.01~Release[/B]
+  Update:
+- stremsb (Update pattern und domains)
+- uptobox (Premium Support)
+- doodstream (Update pattern und Domain)
+- userload (Update pattern)
+- streamcommunity (Add episoden handling)
+  Drop to TLS1.1 on Android, Drop to TLS1.1 if necessary for cloudflaressl
+- kodi.py
+- net.py 
+- daxab
+- clicknupload
+- k2s
+- googlevideo
+- helpers.py
+- playtube
+
+  Neu:
+- streamcommunity
+- itemfix
+- vidmx
+
+  Entfernt:
+- liveleak
 
 [B]2021.05.19~Release[/B]
   Update:
