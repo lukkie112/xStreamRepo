@@ -1,5 +1,32 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
+[B]2021.09.24~Release[/B]
+  Update:
+- upvideo
+- helpers.py
+- itemfix
+- cda
+- fembed
+- streamz
+- youdbox (domain und pattern)
+- streamsb (pattern)
+- vupload (pattern)
+- streamtape
+- gamovideo
+- vidbom
+- evoload
+- speedostream and helpers.py
+- clicknupload (add additional domain)
+
+  Neu:
+- pandafiles
+- fastdrive
+- prubload
+- videovard
+- gogostream
+- streamani
+- upvideo
+
 [B]2021.07.01~Release[/B]
   Update:
 - stremsb (Update pattern und domains)
