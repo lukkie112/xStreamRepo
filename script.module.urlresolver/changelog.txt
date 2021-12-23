@@ -1,6 +1,85 @@
 Mit # markierte .py Dateien sind nur in unserem Resolver enthalten
 
-[B]2021.11.17  - Release[/B]
+[B]2021.12.23~Release[/B]
+  Update:
+- sendvid (pattern und domain)
+- tusfiles
+- doodstream (pattern und domain)
+- vidbom (pattern und domain)
+- streamcommunity (pattern und domain, header)
+- vlalanet (pattern und domain)
+- streamsb (pattern und domain)
+- fembed (pattern und domain)
+- pandafiles
+- tvlogy
+- lbry (add domain)
+- peertube (pattern und domain)
+- vidbom (pattern und domain)
+- vudeo (pattern und domain)
+- vupload (pattern und domain)
+- common.py
+- kodiy.py
+- supervideo
+- mixdrop (pattern und domain)
+- vidcloud9 (pattern und domain)
+- streamtape (pattern und domain)
+- rutube
+- realdebrid
+  - update dialog message if transfer cancelled before file selection
+  - added option to keep transfer of uncached torrent alive after user cancelation
+  - kodi.py
+- vidmoly (update pattern)
+- uptobox
+- vivosx
+- daxab
+
+  Neu:
+- uploadflix
+- hexupload
+- myfeminist
+- racaty
+- hxfile
+- vtube
+- streamshub
+- send
+- rovideo
+
+  Entfernt:
+- trollvid
+  - trollvid.net & trollvid.io sind tot und mp4edge.com verkauft die Seite
+- thevid_gmu.py
+- thevid
+  
+[B]2021.11.17~Release[/B]
+  Update:
+- Änderung im REPO
+- streamtape
+- daxab
+- fembed
+- hdvid
+- addon.xml 
+- gamoplayer (additional domain)
+- streamtape (additional domain)
+- youdbox (additional domain)
+- streamcommunity
+- streamz
+- use $$ for providing referer:
+  - daxab
+  - speedostream
+  - vidmojo
+- fembed (additional domain)
+- jsunpack 
+- hmf (handle timeout when checking streamurl)
+
+  Neu:
+- streamrapid
+- videooo
+- videoslala
+- vlalanet
+- vlalacom
+
+  Entfernt:
+- cocoscope
 
 [B]2021.10.23~Release[/B]
   Update:
