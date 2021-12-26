@@ -1,3 +1,6 @@
 [submodule "_repo/script.module.resolveurl"]
 	path = _repo/script.module.resolveurl
 	url = https://github.com/jsergio123/script.module.resolveurl
+[submodule "_repo/plugin.video.xstream"]
+	path = _repo/plugin.video.xstream
+	url = https://github.com/streamxstream/plugin.video.xstream
