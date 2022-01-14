@@ -2,10 +2,6 @@
 	path = _repo/plugin.video.xstream
 	url = https://github.com/streamxstream/plugin.video.xstream.git
 	branch = nightly
-[submodule "_repo/script.module.urlresolver"]
-	path = _repo/script.module.urlresolver
-	url = https://github.com/streamxstream/script.module.urlresolver.git
-	branch = nightly
 [submodule "_repo/script.module.resolveurl"]
 	path = _repo/script.module.resolveurl
 	url = https://github.com/jsergio123/script.module.resolveurl.git
