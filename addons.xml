@@ -3,9 +3,8 @@
 <addon id="plugin.video.xstream" name="xStream" version="3.5.27" provider-name="xStream-Team">
  <requires>
     <import addon="script.module.requests"/>
-    <import addon="script.module.urlresolver" version="2021.10.01"/>
-    <import addon="script.module.resolveurl" version="5.1.54"/>
     <import addon="script.module.six" version="1.11.0"/>
+    <import addon="script.module.resolveurl" version="5.1.54"/>
     <!-- <import addon="repository.xstream" optional="true"/> -->
     <import addon="script.module.inputstreamhelper" version="0.3.3" optional="true"/>
     <!-- for remote debug -->
@@ -71,7 +70,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.56" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.57" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
@@ -94,30 +93,6 @@
         <description lang="hr_HR">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
         <disclaimer lang="en_GB">This script only resolves video content from legitimate file lockers without prejudice. If this script is being used by 3rd parties to resolve content that you feel infringes upon your Intellectual Property then please take your complaints to the actual website or developer linking to such content and not here. This script in no way searches for any content whatsoever.</disclaimer>
         <disclaimer lang="el_GR">Το ανωτέρο σενάριο το μόνο που κάνει είναι να επιλύει οπτικοακουστικό περιεχόμενο από νόμιμες πηγές χωρίς προκατάληψη. Εάν το ανωτέρο σενάριο χρησιμοποιηθεί από τρίτους ώστε να επιλύσει περιεχόμενο το οποίο σας προκαλεί αντίδραση ότι παραβιάζει την πνευματική σας ιδιοκτησία παρακαλώ μεταφέρετε τα παραπονά σας στον ιστότοπο τον οποίο βρίσκεται το εν λόγω περιεχόμενο η τον δημιουργό ο οποίος πραγματοποιεί την σύνδεση και όχι εδω. Το σενάριο αυτό ουδεμία περίπτωση πραγματοποιεί αναζήτηση περιεχομένου.</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="script.module.urlresolver" name="URLResolver" version="2021.12.23" provider-name="Resolver Team">
-    <requires>
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-		<import addon="script.module.certifi" />
-        <import addon="plugin.video.youtube" optional="true" />
-        <import addon="script.module.python.twitch" optional="true" />
-        <import addon="plugin.googledrive" optional="true" />
-        <!-- for remote debug -->
-        <import addon="script.module.pydevd" optional="true"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.python.pluginsource" library="lib/default.py" />
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="de">URLResolver wird für die Stream Wiedergabe benötigt</summary>
-        <description lang="de">Empfängt viele Video URL's, die in XBMC/Kodi abspielbar sind</description>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
