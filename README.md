@@ -4,4 +4,4 @@
 
 - Repository  Version 1.1.7
 - xStream     Version 3.5.28
-- resolveUrl Version 5.1.60
+- resolveUrl Version 5.1.62
