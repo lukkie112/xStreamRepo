@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.xstream" name="xStream" version="3.5.33" provider-name="xStream-Team">
  <requires>
@@ -8,12 +8,12 @@
     <import addon="repository.xstream" optional="true"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3" optional="true"/>
     <!-- for remote debug -->
-    <!-- <import addon="script.module.pydevd" optional="true"/> -->
+	<!-- <import addon="script.module.pydevd" optional="true"/> -->
  </requires>
  <extension point="xbmc.python.pluginsource" library="default.py">
    <provides>video</provides>
  </extension>
-     <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.service" library="service.py" start="startup" />
  <extension point="xbmc.addon.metadata">
    <summary lang="de">Watch xStream!</summary>
    <description lang="de">Mit diesem Addon kannst du auf alle angebotenen Streams verschiedenster deutschen Quellen zugreifen</description>
@@ -23,12 +23,14 @@
    <platform>all</platform>
    <news>
 Release 3.5.33
-15.05.2022
 
 - UpdateManager ResolveURL hinzugefügt
 - settings.xml überarbeitet
 - readme überarbeitet
 - [xcine] add site
+
+Nightly Versionen
+ - Siehe Changelog
    </news>
    <assets>
      <icon>icon.png</icon>
@@ -56,12 +58,11 @@ Release 3.5.33
     </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.67.1" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.67" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
-        <import addon="script.module.certifi" />
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.python.twitch" optional="true" />
         <import addon="plugin.googledrive" optional="true" />
