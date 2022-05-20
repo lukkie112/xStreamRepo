@@ -3,7 +3,7 @@
 
 ## Willkommen in der xStream Repository für Kodi!
 
-Hier findet Ihr alles benötigten Dateien um den ganzen Umfang von xStream via Kodi zu genießen.
+Hier findet Ihr alle benötigten Dateien um den ganzen Umfang von xStream via Kodi zu genießen.
 
 ***
 
@@ -17,7 +17,7 @@ Für alles weitere findet Ihr vielleicht auch Informationen auf unserer Webseite
 
 ***
 
-Oder nutzt unseren Chat wenn Ihr irgendwelchen anderen Fragen um xStream beantwortet haben möchtet.
+Oder nutzt unseren Chat wenn Ihr irgendwelche anderen Fragen um xStream beantwortet haben möchtet.
 [![Gitter](https://badges.gitter.im/streamxstream/community.svg)](https://gitter.im/streamxstream/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
