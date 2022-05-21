@@ -1,4 +1,4 @@
 [submodule "_repo/plugin.video.xstream"]
 	path = _repo/plugin.video.xstream
-	url = https://github.com/streamxstream/plugin.video.xstream.git
+	url = https://github.com/lukkie112/plugin.video.xstream.git
 	branch = nightly
